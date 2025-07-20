@@ -1,6 +1,6 @@
 # 🧠 Deepfake Detection using CNN
 
-A Machine Learning project to detect deepfake images using Convolutional Neural Networks (CNNs), with a Streamlit frontend for user interaction.
+A Deep Learning Learning project to detect deepfake images using Convolutional Neural Networks (CNNs), with a Streamlit frontend for user interaction.
 
 ---
 
